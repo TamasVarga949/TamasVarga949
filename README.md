@@ -58,4 +58,4 @@ I am currently a **Computer Programming and Analysis** student at **George Brown
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/TamasVarga949 
-- Email: tamasvarga9494@gmail.com  
+- Email: tamasvarga949@gmail.com  
