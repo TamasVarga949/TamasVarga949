@@ -10,12 +10,6 @@
 
 ---
 
-## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamasVarga949&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TamasVarga949&layout=compact&theme=transparent)
-
----
-
 ## 👨‍💻 About Me
 I have been interested in technology for as long as I can remember. I was exposed to computers and tech at a very young age, largely thanks to my father, who has always had a strong interest in technology. Growing up around technology sparked my curiosity and motivated me to learn how things work.
 
